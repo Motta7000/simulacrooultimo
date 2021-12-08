@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "simulacrooultimo",
+    "slug": "simulacrooultimo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "simulacrooultimo"
+}
